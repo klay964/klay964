@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There.</h1>
 
 I'm Mohammed Ali, Web Developer from Baghdad,Iraq.
 
@@ -15,7 +15,7 @@ I'm Mohammed Ali, Web Developer from Baghdad,Iraq.
 ### What i'm doing:
 
 - - 🌱 I’m currently learning <strong> Node Js</strong>
-- - 💼 I’m <strong>Business Information Technology</strong>Graduate.
+- - 💼 I’m <strong>Business Information Technology</strong> Graduate.
 
 
 ### Tech Stack: 🛠
