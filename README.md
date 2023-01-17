@@ -24,14 +24,12 @@ I'm Mohammed Ali, Web Developer from Baghdad,Iraq.
 
 
 ### Stats Overview : 🦸‍♂️
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=klay964&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=klay964&theme=dracula&no-bg=true&row=1"/>
 
 
 ### GitHub Highlights: 🥋
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klay964&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
+
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=klay964&theme=material-palenight"/>
 </a>
